@@ -1,0 +1,21 @@
+Testing documents are prepared at different stages. These documents are discussed as follows.
+
+1. Before Testing:
+
+Since testing begins with the generation of the test cases. The following documents are required for reference –
+
+SRS document - Functional Requirements document.
+Test Policy document - It means the product must be tested far before release.
+Test Strategy document - It mentions detailed aspects of test the team, responsibility matrix, and rights/responsibilities of the test manager and test engineer.
+Traceability Matrix document - This is SDLC document, that is related to the requirements-gathering process. As new requirements come, they are added to this matrix. They can be traced forward and backward. These matrices help testers know the source of the requirement.
+2. During Testing:
+
+While testing is started and is being done, the following documents may be required.
+
+Test Case document - It contains the list of to-be tests. It includes various testing like Unit test plan, Integration test plan, System test plan and Acceptance test plan.
+Test description - It is a detailed description of all test cases and procedures for executing them.
+Test case report - It contains a test case report resulting from the test.
+Test logs - It contains test logs for every test case report.
+3. After Testing:
+
+After testing, only the test summary remains which is a collective analysis of all test reports and logs. The software is released under the version control system if it is ready to launch. It summarizes and concludes whether the software is ready to launch.
