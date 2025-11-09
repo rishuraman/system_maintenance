@@ -1,0 +1,10 @@
+2025-11-06 07:23:46 [backup.sh] INFO: Backup process started.
+2025-11-06 07:23:46 [backup.sh] INFO: Source directory /home/pratik/system_maintenance/source_files is empty. No backup needed.
+2025-11-06 07:38:28 [backup.sh] INFO: Backup process started.
+2025-11-06 07:38:28 [backup.sh] INFO: Backup successful: /home/pratik/system_maintenance/backup_drive/backup_20251106_073828.tar.gz
+2025-11-06 07:38:28 [backup.sh] INFO: Cleaning up old backups...
+2025-11-06 07:38:28 [backup.sh] INFO: Cleanup complete.
+2025-11-06 07:42:47 [backup.sh] INFO: Backup process started.
+2025-11-06 07:42:47 [backup.sh] INFO: Backup successful: /home/pratik/system_maintenance/backup_drive/backup_20251106_074247.tar.gz
+2025-11-06 07:42:47 [backup.sh] INFO: Cleaning up old backups...
+2025-11-06 07:42:47 [backup.sh] INFO: Cleanup complete.
